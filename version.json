@@ -1,0 +1,12 @@
+
+{
+  "version": "1.0.6",
+  "release_date": "2026-09-26",
+  "changelog": [
+    "Added update UI",
+    "Added Fix Bug",
+    "Added Fix speed"
+  ],
+  "download_url": "https://github.com/davitsoun/TikTok-Drama-Updates/releases/download/v1.0.6/TikTok_Short_Dramas_Downloader_Setup_v1.0.6.exe",
+  "mandatory": false
+}
